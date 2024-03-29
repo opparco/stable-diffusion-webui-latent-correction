@@ -1,5 +1,5 @@
-# stable-diffusion-webui-latent-correction
-This expansion shifts the values of each channel of the latent space.
+# Latent Correction extension
+This extension shifts the values of each channel of the latent space.
 ## Channels in Pony Diffusion
 The rule of thumb is as follows:
 <pre>
